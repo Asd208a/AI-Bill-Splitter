@@ -1,0 +1,6 @@
+streamlit>=1.32
+easyocr>=1.7
+opencv-python-headless>=4.8
+pillow>=10.0
+pandas>=2.0
+numpy>=1.24
